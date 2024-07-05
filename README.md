@@ -1,5 +1,7 @@
 # ESTADÍSTICA COMPARATIVA ENTRE EQUIPOS Y JUGADORES DE LA LIGA ⚽️🏟️
 
+![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.laliga.com%2Fsala-de-prensa%2Flogos-e-identidad-corporativa%2Flogos&psig=AOvVaw0-QnNpgsDQGbM6Dnxhf8Zi&ust=1720305626055000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDi3__7kIcDFQAAAAAdAAAAABAR)
+
 El proyecto que tiene justo en frente suya le ayudará a comprender de una forma racional a todos y cada uno de los jugadores de fútbol de la primera división de la liga española, además también de poder hacer comparaciones entre dos equipos para poder conocer cuál de ellos tiene más posibilidades de ganar uno al otro en función de la puntuación de cada uno de los jugadores que componen el once inicial del equipo local y visitante.
 
 Esta puntuación a la que hago referencia fue extraída gracias a métricas generadas a través de Python.
