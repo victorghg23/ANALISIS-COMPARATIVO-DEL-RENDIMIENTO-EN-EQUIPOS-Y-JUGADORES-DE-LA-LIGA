@@ -6,6 +6,8 @@ El proyecto que tiene justo en frente suya le ayudará a comprender de una forma
 
 Esta puntuación a la que hago referencia fue extraída gracias a métricas generadas a través de Python.
 
+Para poder hacer uso de la visualización de datos, puede o bien descargarse el fichero que está adjunto o meterse en el enlace de Tableau que le dirije a la visualización del [Proyecto en Tableau Public](https://public.tableau.com/views/FINALPROJECT-STATSOFPLAYERS/Dashboard2?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ---
 
 ## Estado ##
